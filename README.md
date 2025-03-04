@@ -13,3 +13,4 @@ Pasaras horas de entretenimiento con nuestro tamagochi.
 3. Finalmente, ya puede disfurtar de su tamagochi, vaya al archivo Main.java e inicielo.
 ### Le deseamos que pase grandes horas de felicidad con nuestro programa.
 
+https://sites.google.com/view/gameofthronestamagochi/contacto
