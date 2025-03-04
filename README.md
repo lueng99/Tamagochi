@@ -1,7 +1,11 @@
 # Bienvenido al tamagochi de Juego de Tronos 
 ## Proyecto Creado Por Eva María Ramos, Guillermo Romo y Álvaro Luengo
 ### ¿Que es este programa?
-Nuestro programa trata de un tamagochi con apariencia de Dragon de juego de tronos con el cual podremos: 1. Interactuar jugando minijuegos con él. 2. Darle de comer. 3.Darle de beber. 4. Hacerle volar.
+Nuestro programa trata de un tamagochi con apariencia de Dragon de juego de tronos con el cual podremos: 
+1. Interactuar jugando minijuegos con él.
+2. Darle de comer.
+3. Darle de beber.
+4. Hacerle volar.
 Pasaras horas de entretenimiento con nuestro tamagochi.
 ### ¿Como jugar?
 1. Descargue todos los programas adjuntos y añadalos a unica carpeta comun con el nombre Tamagochi
