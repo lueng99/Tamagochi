@@ -15,10 +15,11 @@ public void main() {
         System.out.println(" No perdamos más el tiempo a jugar!!!");
 
         //Decisión
-        while (true){
+        while (seguirJugando){
             System.out.println("¿Que quiere hacer" + nombre + "?\n 1)Jugar\n 2)Comer\n 3)Beber\n 4)Volar\n 5)Salir");
             int opcion1 = teclado.nextInt();
             String decision;
+            teclado.nextLine();    
             switch (opcion1) {
                 case 1:
                     Scanner myjuego = new Scanner(System.in);
@@ -52,8 +53,12 @@ public void main() {
                             } else {
                                 System.out.println("Has perdido!!!");
                             }
+                            break;
+                            default:
+                                System.out.println("Opcion no valida");    
 
                     }
+                    break    
 
 
                 case 2:
@@ -61,7 +66,8 @@ public void main() {
                 case 3:
 
                 case 4:
-                case 5: break;
+                case 5: seguirJugando = false;
+                            break;
 
 
             }
